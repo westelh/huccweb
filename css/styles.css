@@ -11292,3 +11292,11 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+
+.top-wide-image {
+  min-height: 300px;
+}
+
+.twitter-container {
+  max-height: 70vh;
+}
